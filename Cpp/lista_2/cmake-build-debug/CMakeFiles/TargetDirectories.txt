@@ -1,0 +1,3 @@
+/Users/hytacker/Desktop/MINE/PWR/pc-laboratory-works/Cpp/lista_2/cmake-build-debug/CMakeFiles/lista_2.dir
+/Users/hytacker/Desktop/MINE/PWR/pc-laboratory-works/Cpp/lista_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hytacker/Desktop/MINE/PWR/pc-laboratory-works/Cpp/lista_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
