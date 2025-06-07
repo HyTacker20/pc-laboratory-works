@@ -1,0 +1,64 @@
+/**
+ * @file application.css
+ * @author Claude Asystent
+ * @date 16.05.2025
+ * @brief Arkusz stylów dla aplikacji Paint
+ * 
+ * Definicje stylów CSS dla interfejsu użytkownika aplikacji Paint.
+ */
+
+/* Globalne style dla całej aplikacji */
+.root {
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-font-size: 12px;
+    -fx-background-color: #f4f4f4;
+}
+
+/* Style dla przycisków */
+.button {
+    -fx-background-color: #4a86e8;
+    -fx-text-fill: white;
+    -fx-padding: 5px 10px;
+    -fx-border-radius: 3px;
+    -fx-background-radius: 3px;
+}
+
+.button:hover {
+    -fx-background-color: #3d73c5;
+}
+
+.button:pressed {
+    -fx-background-color: #2b5699;
+}
+
+/* Style dla paska menu */
+.menu-bar {
+    -fx-background-color: #333333;
+}
+
+.menu-bar .label {
+    -fx-text-fill: white;
+}
+
+.menu-item {
+    -fx-padding: 5px 10px;
+}
+
+.menu-item:hover {
+    -fx-background-color: #4a86e8;
+}
+
+/* Style dla paska narzędzi */
+.tool-bar {
+    -fx-background-color: #e0e0e0;
+    -fx-padding: 5px;
+    -fx-spacing: 5px;
+}
+
+/* Style dla panelu statusu */
+.status-bar {
+    -fx-background-color: #e0e0e0;
+    -fx-padding: 5px;
+    -fx-border-width: 1px 0 0 0;
+    -fx-border-color: #c0c0c0;
+}

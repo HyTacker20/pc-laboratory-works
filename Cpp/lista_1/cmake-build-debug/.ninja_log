@@ -1,21 +1,5 @@
 # ninja log v6
-580	678	1742374093454010924	lista_1	90ac3f3902a050e4
-6	580	1742374092879798385	CMakeFiles/lista_1.dir/main.cpp.o	9a8c32eb0639c41d
-2	62	1742374430539099973	build.ninja	e6a6e27ff9d9451c
-3	510	1742374430550060399	CMakeFiles/lista_1.dir/WierszTrojkataPascala.cpp.o	f0fad4bf0307632e
-11	584	1742374578085585499	CMakeFiles/lista_1.dir/WierszTrojkataPascala.cpp.o	f0fad4bf0307632e
-10	598	1742374578085277125	CMakeFiles/lista_1.dir/main.cpp.o	9a8c32eb0639c41d
-4	557	1742374708078409064	CMakeFiles/lista_1.dir/WierszTrojkataPascala.cpp.o	f0fad4bf0307632e
-3	427	1742374714075362620	CMakeFiles/lista_1.dir/WierszTrojkataPascala.cpp.o	f0fad4bf0307632e
-4	580	1742374754239355809	CMakeFiles/lista_1.dir/WierszTrojkataPascala.cpp.o	f0fad4bf0307632e
-3	401	1742374762865930323	CMakeFiles/lista_1.dir/main.cpp.o	9a8c32eb0639c41d
-4	566	1742374914100499499	CMakeFiles/lista_1.dir/main.cpp.o	9a8c32eb0639c41d
-4	639	1742375367636973769	CMakeFiles/lista_1.dir/main.cpp.o	9a8c32eb0639c41d
-8	554	1742375598263118471	CMakeFiles/lista_1.dir/WierszTrojkataPascala.cpp.o	f0fad4bf0307632e
-554	654	1742375598808590854	lista_1	78199b33673116dd
-4	512	1742375734923651934	CMakeFiles/lista_1.dir/main.cpp.o	9a8c32eb0639c41d
-3	392	1742375739329450162	CMakeFiles/lista_1.dir/WierszTrojkataPascala.cpp.o	f0fad4bf0307632e
-3	398	1742375739329122788	CMakeFiles/lista_1.dir/main.cpp.o	9a8c32eb0639c41d
-398	495	1742375739724283783	lista_1	78199b33673116dd
-4	557	1742376328144807096	CMakeFiles/lista_1.dir/main.cpp.o	9a8c32eb0639c41d
 558	656	1742376328698244497	lista_1	78199b33673116dd
+4	557	1742376328144807096	CMakeFiles/lista_1.dir/main.cpp.o	9a8c32eb0639c41d
+2	62	1745942471545078302	build.ninja	e6a6e27ff9d9451c
+3	392	1742375739329450162	CMakeFiles/lista_1.dir/WierszTrojkataPascala.cpp.o	f0fad4bf0307632e

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hytacker/Desktop/MINE/PWR/Kurs Programowania/Cpp/lista_1
+# Install script for directory: /Users/hytacker/Desktop/MINE/PWR/pc-laboratory-works/Cpp/lista_1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/Users/hytacker/Desktop/MINE/PWR/Kurs Programowania/Cpp/lista_1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/Users/hytacker/Desktop/MINE/PWR/pc-laboratory-works/Cpp/lista_1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
